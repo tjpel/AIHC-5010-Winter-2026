@@ -8,7 +8,7 @@ Github repo for AIHC 5010
 
 ![](/assets/project-1-webpage.png)
 
-[Open Rendered HTML](https://github.com/TLKline/AIHC-5010-Winter-2026/blob/main/Project-1/readmit30/faculty/docs/index.html)
+![Leader Board](Project-1/readmit30/faculty/docs/leaderboard.png)
 
 ### Project 2
 
